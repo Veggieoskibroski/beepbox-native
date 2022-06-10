@@ -1,6 +1,6 @@
 # Beepbox Offline File
 beepbox_offline.html
-
+out/
 # Logs
 logs
 *.log
