@@ -4,7 +4,8 @@
   "description": "An (unofficial) native build of Beepbox for all platforms. Includes self-updater to retrive the latest version of Beepbox Offline. ",
   "main": "main.js",
   "scripts": {
-    "test": "electron ."
+    "test": "electron .",
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
