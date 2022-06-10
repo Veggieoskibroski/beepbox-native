@@ -1,4 +1,4 @@
-# beepbox-offline
+# Beepbox Offline!
 It's beepbox, but offline and native builds
 
 Built from ElectronJS.
