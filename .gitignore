@@ -1,6 +1,8 @@
 # Beepbox Offline File
 beepbox_offline.html
 out/
+installer/
+.vscode/*
 # Logs
 logs
 *.log
